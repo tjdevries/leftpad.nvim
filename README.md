@@ -6,4 +6,7 @@ Essential neovim lua library
 
 To show your support for this incredible linchpin library that hold together the entire lua ecosystem, please consider sponsoring me at the 
 
+Major Corporate Backers:
+- github.com/nyxkrage
+
 See [Sponsorship](https://github.com/sponsors/tjdevries?frequency=one-time&sponsor=tjdevries)
